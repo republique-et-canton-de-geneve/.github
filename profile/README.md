@@ -16,7 +16,7 @@ Pour contribuer à nos projets publiés en open source sur cette page, veuillez 
 ## Open source publishing at the state of Geneva
 
 The state of Geneva is actively promoting the use of open source technologies
-technologies and the open source distribution of its own software production.
+and the open source distribution of its own software production.
 By sharing its software with its constituents, other Swiss states and
 international audiences, the state of Geneva aims to
 transparency,
